@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yufeng/lecture/linux/hw2/q7/myshell/main.c
+main.h
+/home/yufeng/lecture/linux/hw2/q7/myshell/main.h
+
+/home/yufeng/lecture/linux/hw2/q7/myshell/main.h
+stdio.h
+-
+stdlib.h
+-
+stddef.h
+-
+signal.h
+-
+pwd.h
+-
+time.h
+-
+string.h
+-
+ctype.h
+-
+unistd.h
+-
+dirent.h
+-
+fcntl.h
+-
+sys/types.h
+-
+sys/stat.h
+-
+sys/wait.h
+-
+sys/shm.h
+-
+

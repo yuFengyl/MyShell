@@ -1,0 +1,4 @@
+dir
+pwd
+test -e myshell
+umask
