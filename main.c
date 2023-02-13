@@ -1,9 +1,3 @@
-/*
- * 程序名: main.c
- * 作者: 赵小迪 学号: 3200105721
- * 编写目的: 程序的主体部分
- */
-
 #include "main.h"
 
 int main(int argc, char **argv) {

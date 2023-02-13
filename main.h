@@ -1,9 +1,3 @@
-/*
- * 程序名: main.h
- * 作者: 赵小迪 学号: 3200105721
- * 编写目的: 定义程序所需的头文件
- */
-
 #ifndef MYSHELL_MAIN_H
 #define MYSHELL_MAIN_H
 
