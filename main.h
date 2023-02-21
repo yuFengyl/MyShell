@@ -67,7 +67,6 @@ int rightWordCount; /* 指令中右边指令的词的数量 */
 int isOutputRedirectCover; /* 输出重定向覆盖标志，1 代表重定向，否则说明没有 */
 int isOutputRedirectAdd; /* 输出重定向追加标志，1 代表重定向，否则说明没有 */
 char outputFilePath[UPPER_LIMITATION]; /* 输出重定向的路径名 */
-int jobShmID;
 pid_t myShellPid;
 int *jobCount;
 int isBg; /* 用来判断该程序是否需要在后台执行 */

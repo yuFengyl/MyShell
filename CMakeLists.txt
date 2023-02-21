@@ -3,4 +3,4 @@ project(myshell C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(myshell main.c main.h)
+add_executable(myshell main.c main.h commandParse.c beforeExecution.c execution.c jobControl.c signalHandler.c)
